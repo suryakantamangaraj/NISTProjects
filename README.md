@@ -33,8 +33,8 @@ This repository serves as a comprehensive archive of my work and projects at NIS
 ### 6. Misc MATLAB Work
 - A collection of miscellaneous MATLAB projects and scripts covering various topics and applications.
 
-### 7. Oracle
-- Projects related to Oracle database management, including SQL queries, database design, and more.
+### 7. DBMS
+- Projects related to Oracle database management system, including SQL queries, database design, and more.
 
 ## Installation
 To clone this repository, use the following command:
