@@ -20,8 +20,8 @@ This repository serves as a comprehensive archive of my work and projects at NIS
 ### 2. Digital Signal Processing
 - Projects related to digital signal processing, including filter design, signal analysis, and more.
 
-### 3. Communication Enggineering
-- Communication engineering projects focusing on modulation techniques, signal transmission, and related topics.
+### 3. Communication Systems
+- Communication systems projects focusing on modulation techniques, signal transmission, and related topics.
 
 ### 4. C Programming
 - A collection of C programming projects completed during my undergraduate studies, covering various algorithms and data structures.
