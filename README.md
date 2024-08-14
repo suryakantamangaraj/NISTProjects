@@ -1,6 +1,6 @@
 # NIST Projects
 
-Welcome to the NISTProjects repository! This repository contains a collection of projects and work that I have completed during my bachelors time at the National Institute of Science and Technology (NIST), Behampur. The focus of these projects includes various topics that can be found in the [Projects](## Projects) section.
+Welcome to the NISTProjects repository! This repository contains a collection of projects and work that I have completed during my bachelors time at the National Institute of Science and Technology (NIST), Behampur. The focus of these projects includes various topics that can be found in the Projects section.
 
 ## Table of Contents
 - Introduction
