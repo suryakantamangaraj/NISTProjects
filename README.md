@@ -14,23 +14,24 @@ Welcome to the NISTProjects repository! This repository contains a collection of
 This repository serves as a comprehensive archive of my work and projects at NIST. It includes various scripts, simulations, and documentation related to Electronics and Computer engineering.
 
 ## Projects
-### 1. MATLAB Work
-- A collection of miscellaneous MATLAB projects and scripts covering various topics and applications.
+
+### 1. Communication Systems
+- Communication systems projects focusing on modulation techniques, signal transmission, and related topics.
 
 ### 2. Digital Signal Processing
 - Projects related to digital signal processing, including filter design, signal analysis, and more.
 
-### 3. Communication Systems
-- Communication systems projects focusing on modulation techniques, signal transmission, and related topics.
-
-### 4. C Programming
+### 3. C Programming
 - A collection of C programming projects completed during my undergraduate studies, covering various algorithms and data structures.
 
-### 5. COOP
+### 4. COOP
 - Projects and work completed during my undergraduate studies related to C++ & Object Oriented Programming (COOP), including practical applications and industry-related tasks.
 
-### 6. DS
+### 5. DS
 - Data structures projects, including implementations and applications of various data structures in C and other programming languages.
+
+### 6. Misc MATLAB Work
+- A collection of miscellaneous MATLAB projects and scripts covering various topics and applications.
 
 ### 7. Oracle
 - Projects related to Oracle database management, including SQL queries, database design, and more.
