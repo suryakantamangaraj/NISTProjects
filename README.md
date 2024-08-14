@@ -14,26 +14,26 @@ Welcome to the NISTProjects repository! This repository contains a collection of
 This repository serves as a comprehensive archive of my work and projects at NIST. It includes various scripts, simulations, and documentation related to Electronics and Computer engineering.
 
 ## Projects
-### 1. MATLABWork
-- **Description**: A collection of miscellaneous MATLAB projects and scripts covering various topics and applications.
+### 1. MATLAB Work
+- A collection of miscellaneous MATLAB projects and scripts covering various topics and applications.
 
-### 2. DigitalSignalProcessingProjects
-- **Description**: Projects related to digital signal processing, including filter design, signal analysis, and more.
+### 2. Digital Signal Processing
+- Projects related to digital signal processing, including filter design, signal analysis, and more.
 
-### 3. CommEnggProjects
-- **Description**: Communication engineering projects focusing on modulation techniques, signal transmission, and related topics.
+### 3. Communication Enggineering
+- Communication engineering projects focusing on modulation techniques, signal transmission, and related topics.
 
 ### 4. C Programming
-- **Description**: A collection of C programming projects completed during my undergraduate studies, covering various algorithms and data structures.
+- A collection of C programming projects completed during my undergraduate studies, covering various algorithms and data structures.
 
 ### 5. COOP
-- **Description**: Projects and work completed during my undergraduate studies related to C++ & Object Oriented Programming (COOP), including practical applications and industry-related tasks.
+- Projects and work completed during my undergraduate studies related to C++ & Object Oriented Programming (COOP), including practical applications and industry-related tasks.
 
 ### 6. DS
-- **Description**: Data structures projects, including implementations and applications of various data structures in C and other programming languages.
+- Data structures projects, including implementations and applications of various data structures in C and other programming languages.
 
 ### 7. Oracle
-- **Description**: Projects related to Oracle database management, including SQL queries, database design, and more.
+- Projects related to Oracle database management, including SQL queries, database design, and more.
 
 ## Installation
 To clone this repository, use the following command:
