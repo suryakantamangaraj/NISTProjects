@@ -15,25 +15,25 @@ This repository serves as a comprehensive archive of my work and projects at NIS
 
 ## Projects
 
-### 1. Communication Systems
+### 1. [Communication Systems](https://github.com/suryakantamangaraj/NISTProjects/tree/main/CommunicationSystems)
 - Communication systems projects focusing on modulation techniques, signal transmission, and related topics.
 
-### 2. Digital Signal Processing
+### 2. [Digital Signal Processing](https://github.com/suryakantamangaraj/NISTProjects/tree/main/DigitalSignalProcessing)
 - Projects related to digital signal processing, including filter design, signal analysis, and more.
 
-### 3. C Programming
+### 3. [C Programming](https://github.com/suryakantamangaraj/NISTProjects/tree/main/C%20Programming)
 - A collection of C programming projects completed during my undergraduate studies, covering various algorithms and data structures.
 
-### 4. COOP
+### 4. [COOP](https://github.com/suryakantamangaraj/NISTProjects/tree/main/COOP)
 - Projects and work completed during my undergraduate studies related to C++ & Object Oriented Programming (COOP), including practical applications and industry-related tasks.
 
-### 5. DS
+### 5. [DS](https://github.com/suryakantamangaraj/NISTProjects/tree/main/DS)
 - Data structures projects, including implementations and applications of various data structures in C and other programming languages.
 
-### 6. Misc MATLAB Work
+### 6. [Misc MATLAB Work](https://github.com/suryakantamangaraj/NISTProjects/tree/main/MiscMATLABWork)
 - A collection of miscellaneous MATLAB projects and scripts covering various topics and applications.
 
-### 7. DBMS
+### 7. [DBMS](https://github.com/suryakantamangaraj/NISTProjects/tree/main/DBMS)
 - Projects related to Oracle database management system, including SQL queries, database design, and more.
 
 ## Installation
